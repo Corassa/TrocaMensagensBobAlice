@@ -1,6 +1,6 @@
 # TrocaMensagensBobAlice
-Este repositório tem como objetivo salvar o código desenvolvido na matéria de Segurança e Auditoria da Universidade Tecnológica Federal do Paraná - Cornélio Procópio
+This repository aims to save the code developed in the area of Security and Audit of the Federal Technological University of Paraná - Cornélio Procópio
 
-A classe principal a ser executada é TrocaMensagens.java
+The main class to run is ExchangeMessages.java
 
-A documentação pode ser encontrada na pasta dist/javadoc
+The documentation can be found in the dist / javadoc folder
